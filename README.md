@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umair Aslam</h1>
+<h1 align="center">Hi , I'm Umair Aslam</h1>
 <h3 align="center">BSIT Student · Flutter Developer · SEO Freelancer · IT Support Specialist</h3>
 
 ---
@@ -79,10 +79,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umairanxari935@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/umair-aslam)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://fiverr.com/yourprofile)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://upwork.com/freelancers/yourprofile)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/923236075607)
+
 
 ---
 
-<p align="center">⭐ Star karo agar koi kaam aaya!</p>
