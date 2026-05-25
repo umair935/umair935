@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Umair Aslam</h1>
-<h3 align="center">BSIT Student · Flutter Developer · SEO Freelancer · IT Support Specialist</h3>
+Hi 👋, I'm Umair Aslam
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Flutter+%26+Firebase+Developer;SEO+%26+WordPress+Expert;Cisco+Networking+%26+IT+Support;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+
+BSIT Student · Flutter Developer · SEO Freelancer · IT Support Specialist
+
+
+
+
+
+  
+
+
+
 
 ---
 
@@ -77,10 +84,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umair935&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair935&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
+
+
+
+  
+  
+
+
+
 
 ---
 
@@ -93,4 +104,6 @@
 
 ---
 
-<p align="center">⭐ Star karo agar koi kaam aaya!</p>
+
+
+⭐ Star karo agar koi kaam aaya!
