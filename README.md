@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umair Aslam</h1>
 <h3 align="center">BSIT Student · Flutter Developer · SEO Freelancer · IT Support Specialist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umair935&label=Profile+Views&color=185FA5&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Internships-brightgreen?style=flat" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -17,7 +12,7 @@
 - 🌐 **Freelance Web & App Developer** since 2024
 - 📫 Reach me at **umairanxari935@gmail.com**
 - 📍 Based in **Faisalabad, Pakistan**
-- 💡 Open to: Internships, Freelance Projects & Collaborations
+- 💡 Open to: Internships, Freelance & Collaborations
 
 ---
 
@@ -77,28 +72,6 @@
 | 🌐 **WordPress Business Sites** | SEO-optimized sites with Google ranking growth | WordPress, SEO |
 | 🔧 **Cisco Network Lab** | VLAN setup, subnetting, DHCP/DNS on Cisco routers | Cisco, Networking |
 | 🔍 **SEO Campaigns** | 10+ client websites managed on Fiverr & Upwork | SEMrush, GSC |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umair935&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair935&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=umair935&theme=github-dark-blue&hide_border=true" width="60%" />
-</p>
-
----
-
-### 🤝 What I Can Do For You
-
-- 📱 Flutter mobile apps for Android & iOS
-- 🌐 WordPress websites — fast, SEO-ready
-- 🔍 SEO — Google ranking & keyword strategy
-- 🔧 IT Support — networking, troubleshooting, system setup
 
 ---
 
