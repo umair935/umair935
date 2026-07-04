@@ -68,4 +68,4 @@ UI/UX Design, Leadership
 
 ## Contact
 
-Reach out via [LinkedIn](https://linkedin.com/in/umair-aslam935) or [Email](mailto:umairanxari935@gmail.com).
+Reach out via [LinkedIn](https://linkedin.com/in/umair-aslam935) or email at **umairanxari935@gmail.com**.
