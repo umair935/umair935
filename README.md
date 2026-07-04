@@ -2,7 +2,7 @@
 
 **BSIT Student | Flutter Developer | Network Engineer | Freelance Developer**
 
- Pakistan
+Faisalabad, Pakistan
 
 [LinkedIn](https://linkedin.com/in/umair-aslam935) &nbsp;|&nbsp; [GitHub](https://github.com/umair935) &nbsp;|&nbsp; [Email](mailto:umairanxari935@gmail.com)
 
@@ -27,16 +27,6 @@ Building and deploying WordPress websites and custom web applications for client
 **Flutter Developer Intern** — Systems Limited
 *Aug 2025 – Sep 2025*
 Developed mobile app features using Flutter and Dart in a professional team setting. Integrated Firebase Authentication and Firestore Database, designed responsive UI/UX screens, and contributed to bug fixing, performance optimization, and code reviews.
-
----
-
-## Projects
-
-**Dual-Campus Network Design** — *Cisco Packet Tracer, Academic Project*
-Designed and simulated a dual-campus network with 3 routers, 4 switches, and 2 servers. Configured VLANs, inter-VLAN routing, DHCP, and DNS, achieving 100% end-to-end connectivity. Implemented subnetting across 6 departments to reduce IP conflicts and improve network efficiency.
-
-**Task Manager App** — *Flutter, Firebase, Personal Project*
-Built a cross-platform Task Manager app with 10+ UI screens and smooth navigation. Integrated Firebase Firestore for real-time sync and Firebase Authentication for secure login. Implemented task categories, priority levels, and completion tracking.
 
 ---
 
