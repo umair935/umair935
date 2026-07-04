@@ -2,7 +2,7 @@
 
 **BSIT Student | Flutter Developer | Network Engineer | Freelance Developer**
 
-Faisalabad, Pakistan
+ Pakistan
 
 [LinkedIn](https://linkedin.com/in/umair-aslam935) &nbsp;|&nbsp; [GitHub](https://github.com/umair935) &nbsp;|&nbsp; [Email](mailto:umairanxari935@gmail.com)
 
