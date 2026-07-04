@@ -1,85 +1,71 @@
-<h1 align="center">Hi , I'm Umair Aslam</h1>
-<h3 align="center">BSIT Student · Flutter Developer · SEO Freelancer · IT Support Specialist</h3>
+# Umair Aslam
+
+**BSIT Student | Flutter Developer | Network Engineer | Freelance Developer**
+
+Faisalabad, Pakistan
+
+[LinkedIn](https://linkedin.com/in/umair-aslam935) &nbsp;|&nbsp; [GitHub](https://github.com/umair935) &nbsp;|&nbsp; [Email](mailto:umairanxari935@gmail.com)
 
 ---
 
-### 👨‍💻 About Me
+## About
 
-- 🎓 **BSIT Student** at The University of Faisalabad *(2023–2027)*
-- 💼 Currently working as **Networking & IT Support** at my university
-- 📱 **Flutter Developer Intern** at Systems Limited *(Aug–Sep 2025)*
-- 🔍 **SEO Freelancer** on Fiverr & Upwork since 2023
-- 🌐 **Freelance Web & App Developer** since 2024
-- 📫 Reach me at **umairanxari935@gmail.com**
-- 📍 Based in **Faisalabad, Pakistan**
-- 💡 Open to: Internships, Freelance & Collaborations
+BSIT student at The University of Faisalabad with hands-on experience in Flutter development, Firebase integration, and network infrastructure design. Completed a Flutter Developer internship at Systems Limited, delivered multiple freelance web and application projects, and designed enterprise-level Cisco networks. Currently working in Networking and IT Support at my university while building toward a career in Cloud and DevOps Engineering.
 
 ---
 
-### 🛠️ Tech Stack
+## Experience
 
-**Mobile Development**
+**Networking & IT Support** — The University of Faisalabad
+*May 2026 – Present*
+Managing network infrastructure including Cisco routers, switches, and VLANs; handling system troubleshooting, hardware maintenance, and end-user support.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+**Freelance Web & App Developer** — Fiverr & Upwork
+*Jan 2024 – Present*
+Building and deploying WordPress websites and custom web applications for clients. Implementing SEO strategies, cloud integrations, and performance optimizations, and managing complete project lifecycles independently.
 
-**Web & CMS**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Networking & IT**
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
-**SEO & Marketing**
-
-![Google Search Console](https://img.shields.io/badge/Google_Search_Console-458CF5?style=flat&logo=google&logoColor=white)
-![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=flat&logo=semrush&logoColor=white)
-![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)
-![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)
-
-**Cloud & AI**
-
-![Google Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI_Tools-412991?style=flat&logo=openai&logoColor=white)
+**Flutter Developer Intern** — Systems Limited
+*Aug 2025 – Sep 2025*
+Developed mobile app features using Flutter and Dart in a professional team setting. Integrated Firebase Authentication and Firestore Database, designed responsive UI/UX screens, and contributed to bug fixing, performance optimization, and code reviews.
 
 ---
 
-### 💼 Work Experience
+## Projects
 
-| Role | Company | Duration |
-|------|---------|----------|
-| 🌐 Networking & IT Support | The University of Faisalabad | May 2026 – Present |
-| 💻 Freelance Web & App Developer | Self-employed, Faisalabad | Jan 2024 – Present |
-| 📱 Flutter Developer Intern | Systems Limited | Aug 2025 – Sep 2025 |
-| 🔍 SEO Freelancer | Fiverr & Upwork (Remote) | Aug 2023 – Present |
+**Dual-Campus Network Design** — *Cisco Packet Tracer, Academic Project*
+Designed and simulated a dual-campus network with 3 routers, 4 switches, and 2 servers. Configured VLANs, inter-VLAN routing, DHCP, and DNS, achieving 100% end-to-end connectivity. Implemented subnetting across 6 departments to reduce IP conflicts and improve network efficiency.
 
----
-
-### 🚀 Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 📱 **Flutter Mobile App** | Full-stack mobile app with Firebase auth & real-time DB | Flutter, Firebase, Dart |
-| 🌐 **WordPress Business Sites** | SEO-optimized sites with Google ranking growth | WordPress, SEO |
-| 🔧 **Cisco Network Lab** | VLAN setup, subnetting, DHCP/DNS on Cisco routers | Cisco, Networking |
-| 🔍 **SEO Campaigns** | 10+ client websites managed on Fiverr & Upwork | SEMrush, GSC |
+**Task Manager App** — *Flutter, Firebase, Personal Project*
+Built a cross-platform Task Manager app with 10+ UI screens and smooth navigation. Integrated Firebase Firestore for real-time sync and Firebase Authentication for secure login. Implemented task categories, priority levels, and completion tracking.
 
 ---
 
-### 📬 Connect with Me
+## Skills
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umairanxari935@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/umair-aslam)
+**Programming & Development**
+Flutter & Dart, JavaScript, .NET, REST APIs
 
+**Database & Backend**
+Firebase (Authentication, Firestore), MySQL
+
+**Tools & Platforms**
+Git & Version Control, WordPress
+
+**Networking & Systems**
+Cisco Networking, Windows, Linux
+
+**Design & Soft Skills**
+UI/UX Design, Leadership
 
 ---
 
+## Education
+
+**BS Information Technology** — The University of Faisalabad
+*2023 – 2027*
+
+---
+
+## Contact
+
+Reach out via [LinkedIn](https://linkedin.com/in/umair-aslam935) or [Email](mailto:umairanxari935@gmail.com).
