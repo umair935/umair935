@@ -59,3 +59,10 @@ UI/UX Design, Leadership
 
 ## Contact
 Reach out via [LinkedIn](https://linkedin.com/in/umair-aslam935) or email at **umairanxari935@gmail.com**.
+
+---
+
+## GitHub Stats
+![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umair935&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umair935&layout=compact&theme=tokyonight)
