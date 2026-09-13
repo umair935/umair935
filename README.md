@@ -1,5 +1,3 @@
-# Umair Aslam
-#### umair-aslam
 
 **BSIT Student | Flutter Developer | Network Engineer | Freelance Developer**
 
