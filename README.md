@@ -17,7 +17,7 @@ Pakistan
 
 ## About
 
-BSIT student at The University of Faisalabad with hands-on experience in Flutter development, Firebase integration, and network infrastructure design. Completed a Flutter Developer internship at Systems Limited, delivered multiple freelance web and application projects, and designed enterprise-level Cisco networks. Currently a Cloud Intern at Hashx and building DevMatch, an AI-powered Flutter freelance marketplace, while working toward a career in Cloud and DevOps Engineering.
+BSIT student at The University of Faisalabad with hands-on experience in Flutter development, Firebase integration, and network infrastructure design. Completed a Flutter Developer internship at Systems Limited, delivered multiple freelance web and application projects, and designed enterprise-level Cisco networks. Currently a Cloud Intern at Hashx, working toward a career in Cloud and DevOps Engineering.
 
 ---
 
@@ -57,8 +57,6 @@ Developed mobile app features using Flutter and Dart in a professional team sett
 ---
 
 ## Projects
-
-**[DevMatch](https://github.com/umair935)** — AI-powered Flutter freelance marketplace connecting clients with developers in Pakistan. Final Year Project (FYP).
 
 **[calculator-app](https://github.com/umair935/calculator-app)** — A simple calculator app built with Flutter performing basic arithmetic operations.
 
