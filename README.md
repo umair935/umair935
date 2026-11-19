@@ -58,6 +58,10 @@ Developed mobile app features using Flutter and Dart in a professional team sett
 
 ## Projects
 
+**DataPulse Docker** — Dockerized multi-tier analytics ingestion stack using FastAPI, a worker, Postgres, Redis and Nginx. [View](https://github.com/umair935/datapulse-docker)
+
+**LocalJobGuard** — Python-based local job monitoring system. [View](https://github.com/umair935/LocalJobGuard)
+
 **TUF Campus Network Design** — Two-campus network in Cisco Packet Tracer using VLANs, OSPF and inter-VLAN routing. [View](https://github.com/umair935/TUF-Network-Design)
 
 **Calculator App** — iOS-style calculator built with Flutter and Dart. [View](https://github.com/umair935/calculator-app)
