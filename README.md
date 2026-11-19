@@ -1,11 +1,11 @@
 # Umair Aslam
 #### umair-aslam
 
-**BSIT Student | Flutter Developer | Network Engineer | Freelance Developer**
+**Flutter Developer | Aspiring Cloud & DevOps Engineer**
 
 Pakistan
 
-[LinkedIn](https://linkedin.com/in/umair-aslam935) | [GitHub](https://github.com/umair935) | [Portfolio](https://umair935-portfolio.vercel.app) | [Email](mailto:umairanxari935@gmail.com)
+[LinkedIn](https://linkedin.com/in/umair-aslam935) | [GitHub](https://github.com/umair935) | [Portfolio](https://portfolio-umair936.vercel.app) | [Email](mailto:umairanxari935@gmail.com)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -17,19 +17,19 @@ Pakistan
 
 ## About
 
-BSIT student at The University of Faisalabad with hands-on experience in Flutter development, Firebase integration, and network infrastructure design. Completed a Flutter Developer internship at Systems Limited, delivered multiple freelance web and application projects, and designed enterprise-level Cisco networks. Currently a Cloud Intern at Hashx, working toward a career in Cloud and DevOps Engineering.
+BSIT student at The University of Faisalabad with hands-on experience in Flutter development, Firebase integration, and network design. Completed a Flutter Developer internship at Systems Limited, delivered freelance web and application projects, and designed a campus network in Cisco Packet Tracer. Currently a Cloud Intern at Hashx, working toward a career in Cloud and DevOps Engineering.
 
 ---
 
 ## Experience
 
 **Cloud Intern** — Hashx (Remote) *Aug 2026 – Present*
-Working on AWS, Azure, and GCP cloud setup and deployment tasks as part of a remote internship.
+Working on AWS cloud setup and deployment tasks as part of a remote internship.
 
 **IT Intern** — Ibrahim Fibres Ltd. *Aug 2026 – Sep 2026*
-6-week on-site internship covering Networking, Database (Oracle SQL), ERP, Network & Security, and Data Center Infrastructure (DCI) rotations.
+6-week on-site internship (9 to 5) covering Networking, Database (Oracle SQL), ERP, Network & Security, and Data Center Infrastructure (DCI) rotations.
 
-**Networking & IT Support** — The University of Faisalabad *May 2026 – Present*
+**Networking & IT Support** — The University of Faisalabad (Hybrid) *May 2026 – Present*
 Managing network infrastructure including Cisco routers, switches, and VLANs; handling system troubleshooting, hardware maintenance, and end-user support.
 
 **Freelance Web & App Developer** — Fiverr & Upwork *Jan 2024 – Present*
@@ -42,27 +42,27 @@ Developed mobile app features using Flutter and Dart in a professional team sett
 
 ## Skills
 
-**Programming & Development** Flutter & Dart, JavaScript, .NET, REST APIs, Python, C++
+**Programming & Development** Flutter & Dart, JavaScript, Python, C++
 
-**Cloud & DevOps** AWS, Azure, GCP
+**Cloud & DevOps** Docker, Linux, AWS (Console)
 
 **Database & Backend** Firebase (Authentication, Firestore), MySQL, Oracle SQL
 
 **Tools & Platforms** Git & Version Control, WordPress
 
-**Networking & Systems** Cisco Networking, Windows, Linux
+**Networking** Cisco Networking, Windows
 
-**Design & Soft Skills** UI/UX Design, Leadership
+**Design** UI/UX Design
 
 ---
 
 ## Projects
 
-**[calculator-app](https://github.com/umair935/calculator-app)** — A simple calculator app built with Flutter performing basic arithmetic operations.
+**TUF Campus Network Design** — Two-campus network in Cisco Packet Tracer using VLANs, OSPF and inter-VLAN routing. [View](https://github.com/umair935/TUF-Network-Design)
 
-**[TUF-Network-Design](https://github.com/umair935/TUF-Network-Design)** — BSIT 6th Semester Computer Networks project: TUF Campus Network Design using Cisco Packet Tracer.
+**Calculator App** — iOS-style calculator built with Flutter and Dart. [View](https://github.com/umair935/calculator-app)
 
-**[portfolio](https://github.com/umair935/portfolio)** — Personal portfolio website built with HTML.
+**Portfolio Website** — Personal portfolio built with HTML, CSS and JavaScript. [Live](https://portfolio-umair936.vercel.app)
 
 ---
 
