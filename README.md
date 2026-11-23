@@ -5,7 +5,7 @@
 
 Pakistan
 
-[LinkedIn](https://linkedin.com/in/umair-aslam935) | [GitHub](https://github.com/umair935) | [Portfolio]([https://portfolio-umair936.vercel.app](https://umair935-portfolio.vercel.app/#home)) | [Email](mailto:umairanxari935@gmail.com)
+[LinkedIn](https://linkedin.com/in/umair-aslam935) | [GitHub](https://github.com/umair935) | [Portfolio]([https://portfolio-umair936.vercel.app](https://umair935-portfolio.vercel.app/#home) | [Email](mailto:umairanxari935@gmail.com)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
